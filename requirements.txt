@@ -1,0 +1,6 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+sqlalchemy>=2.0
+
+# Uncomment to use PostgreSQL (DATABASE_URL=postgresql+psycopg://...)
+# psycopg[binary]>=3.1
